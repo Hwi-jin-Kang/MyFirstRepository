@@ -1,2 +1,7 @@
-# MyFirstRepository
-Tutorial Repository
+# 무선 네트워크 2주차 과제
+
+# 201544076 / 강휘진 / 3학년 C반
+
+# 설문조사 응답
+
+   2. 택배
